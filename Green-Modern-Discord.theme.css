@@ -1,16 +1,16 @@
 /**
- * @name Spotify_Discord
- * @version 1.5.0
- * @description Combine Discord and Spotify into one
- * @author CapnKitten
+ * @name Green-Modern-Discord
+ * @version 1.1.0
+ * @description Combine Discord and relaxing view
+ * @author V1uk
  * 
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
+ * @website http://github.com/v1uk
+ * @source TBA
+ * @donate https://paypal.me/V1uk
+ * @invite TB
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
+@import url(;
 
 :root {
 	--accent-color: #1db954;
@@ -46,6 +46,6 @@
 	--title-custom: #3b77c4;
 }
 
-.container-3w7J-x[aria-label*="CapnKitten"]:before {
+.container-3w7J-x[aria-label*="V1uk"]:before {
 	--title-custom: #184c88;
 }
