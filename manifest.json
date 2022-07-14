@@ -1,8 +1,8 @@
 {
-    "name": "Spotify-Discord",
-    "description": "Combine Discord and Spotify into one",
-    "version": "1.4.2",
-    "author": "CapnKitten",
-    "theme": "Spotify-Discord.theme.css",
+    "name": "Green-Modern-Discord",
+    "description": "Combine Discord and relaxing view",
+    "version": "1.0.0",
+    "author": "V1uk",
+    "theme": "Green-Modern-Discord.theme.css",
     "license": "MIT"
 }
